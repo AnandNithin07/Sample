@@ -3,6 +3,6 @@ package org.Sample;
 public class SampleClass {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("Nice day to work");
+		System.out.println("Work assigned for individuals");
 	}
 }
